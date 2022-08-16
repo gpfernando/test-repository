@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Matt Studdert
+N;CHARSET=UTF-8:Matt Studdert;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;3rd Floor\, 86-90 Paul Street;London;London;EC2A 4NE;Un
+ ited Kingdom
+EMAIL:matt@frontendmentor.io
+ORG;CHARSET=UTF-8:Frontend Mentor
+URL:https://www.frontendmentor.io/
+END:VCARD
